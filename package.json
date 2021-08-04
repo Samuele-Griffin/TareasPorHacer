@@ -1,0 +1,23 @@
+{
+  "name": "04-listaporhacer",
+  "version": "1.0.0",
+  "description": "Aplicacion de JavaScript usando Node para la gestion de tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuele-Griffin/TareasPorHacer.git"
+  },
+  "author": "Santiago Grisafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuele-Griffin/TareasPorHacer/issues"
+  },
+  "homepage": "https://github.com/Samuele-Griffin/TareasPorHacer#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
